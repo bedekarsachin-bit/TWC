@@ -1,0 +1,10 @@
+Image Audit Report - 01/05/2026 16:09:52
+-----------------------------------
+BROKEN: '../assets/images/clients/{{logo_filename}}' in file 'C:\Users\SACHIN\Downloads\new_TWC\new_TWC\pages\client-template.html'
+  -> NO SUGGESTION FOUND
+BROKEN: '../assets/images/visuals/industry-local.png' in file 'C:\Users\SACHIN\Downloads\new_TWC\new_TWC\pages\industry-local.html'
+  -> NO SUGGESTION FOUND
+BROKEN: '../assets/images/visuals/tech-seo-sovereignty.png' in file 'C:\Users\SACHIN\Downloads\new_TWC\new_TWC\pages\seo-services.html'
+  -> NO SUGGESTION FOUND
+
+Total Broken Images: 3

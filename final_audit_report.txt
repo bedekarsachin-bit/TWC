@@ -1,0 +1,360 @@
+[] <a> Placeholder Link (#)
+[] <a> Placeholder Link (#)
+[s.html] <a> Placeholder Link (#)
+[l] <a> Placeholder Link (#)
+[l] <a> Placeholder Link (#)
+[] <a> Placeholder Link (#)
+[l] <a> Placeholder Link (#)
+[ml] <a> Placeholder Link (#)
+[4-semantic-search-optimization.html] <a> Placeholder Link (#)
+[4-semantic-search-optimization.html] <a> Placeholder Link (#)
+[4-semantic-search-optimization.html] <a> Empty Link
+[4-semantic-search-optimization.html] <a> Empty Link
+[5-headless-cms-guide.html] <a> Placeholder Link (#)
+[5-headless-cms-guide.html] <a> Placeholder Link (#)
+[5-headless-cms-guide.html] <a> Empty Link
+[5-headless-cms-guide.html] <a> Empty Link
+[5-real-estate-local-seo.html] <a> Placeholder Link (#)
+[5-real-estate-local-seo.html] <a> Placeholder Link (#)
+[5-real-estate-local-seo.html] <a> Empty Link
+[5-real-estate-local-seo.html] <a> Empty Link
+[6-edtech-lead-generation.html] <a> Placeholder Link (#)
+[6-edtech-lead-generation.html] <a> Placeholder Link (#)
+[6-edtech-lead-generation.html] <a> Empty Link
+[6-edtech-lead-generation.html] <a> Empty Link
+[6-fintech-design-trends.html] <a> Placeholder Link (#)
+[6-fintech-design-trends.html] <a> Placeholder Link (#)
+[6-fintech-design-trends.html] <a> Empty Link
+[6-fintech-design-trends.html] <a> Empty Link
+[7-programmatic-advertising-guide.html] <a> Placeholder Link (#)
+[7-programmatic-advertising-guide.html] <a> Placeholder Link (#)
+[7-programmatic-advertising-guide.html] <a> Empty Link
+[7-programmatic-advertising-guide.html] <a> Empty Link
+[7-server-side-tracking-guide.html] <a> Placeholder Link (#)
+[7-server-side-tracking-guide.html] <a> Placeholder Link (#)
+[7-server-side-tracking-guide.html] <a> Empty Link
+[7-server-side-tracking-guide.html] <a> Empty Link
+[8-ecommerce-category-seo.html] <a> Placeholder Link (#)
+[8-ecommerce-category-seo.html] <a> Placeholder Link (#)
+[8-ecommerce-category-seo.html] <a> Empty Link
+[8-ecommerce-category-seo.html] <a> Empty Link
+[8-google-ads-smart-bidding.html] <a> Placeholder Link (#)
+[8-google-ads-smart-bidding.html] <a> Placeholder Link (#)
+[8-google-ads-smart-bidding.html] <a> Empty Link
+[8-google-ads-smart-bidding.html] <a> Empty Link
+[8-healthcare-patient-acquisition.html] <a> Placeholder Link (#)
+[8-healthcare-patient-acquisition.html] <a> Placeholder Link (#)
+[8-healthcare-patient-acquisition.html] <a> Empty Link
+[8-healthcare-patient-acquisition.html] <a> Empty Link
+[9-marketing-mix-modeling.html] <a> Placeholder Link (#)
+[9-marketing-mix-modeling.html] <a> Placeholder Link (#)
+[9-marketing-mix-modeling.html] <a> Empty Link
+[9-marketing-mix-modeling.html] <a> Empty Link
+[9-meta-ads-scaling.html] <a> Placeholder Link (#)
+[9-meta-ads-scaling.html] <a> Placeholder Link (#)
+[9-meta-ads-scaling.html] <a> Empty Link
+[9-meta-ads-scaling.html] <a> Empty Link
+[0-hospitality-digital-trends.html] <a> Placeholder Link (#)
+[0-hospitality-digital-trends.html] <a> Placeholder Link (#)
+[0-hospitality-digital-trends.html] <a> Empty Link
+[0-hospitality-digital-trends.html] <a> Empty Link
+[0-landing-page-psychology.html] <a> Placeholder Link (#)
+[0-landing-page-psychology.html] <a> Placeholder Link (#)
+[0-landing-page-psychology.html] <a> Empty Link
+[0-landing-page-psychology.html] <a> Empty Link
+[1-international-seo-hreflang.html] <a> Broken Path: site.com/uk/
+[1-international-seo-hreflang.html] <a> Placeholder Link (#)
+[1-international-seo-hreflang.html] <a> Placeholder Link (#)
+[1-international-seo-hreflang.html] <a> Empty Link
+[1-international-seo-hreflang.html] <a> Empty Link
+[1-retention-marketing-strategies.html] <a> Placeholder Link (#)
+[1-retention-marketing-strategies.html] <a> Placeholder Link (#)
+[1-retention-marketing-strategies.html] <a> Empty Link
+[1-retention-marketing-strategies.html] <a> Empty Link
+[2-5-second-test-cro.html] <a> Placeholder Link (#)
+[2-5-second-test-cro.html] <a> Placeholder Link (#)
+[2-5-second-test-cro.html] <a> Empty Link
+[2-5-second-test-cro.html] <a> Empty Link
+[2-aso-growth-guide.html] <a> Placeholder Link (#)
+[2-aso-growth-guide.html] <a> Placeholder Link (#)
+[2-aso-growth-guide.html] <a> Placeholder Link (#)
+[2-aso-growth-guide.html] <a> Empty Link
+[2-aso-growth-guide.html] <a> Empty Link
+[2-b2b-site-transformation-case-study.html] <a> Placeholder Link (#)
+[2-b2b-site-transformation-case-study.html] <a> Placeholder Link (#)
+[2-b2b-site-transformation-case-study.html] <a> Empty Link
+[2-b2b-site-transformation-case-study.html] <a> Empty Link
+[2-brand-search-volume-seo.html] <a> Placeholder Link (#)
+[2-brand-search-volume-seo.html] <a> Placeholder Link (#)
+[2-brand-search-volume-seo.html] <a> Empty Link
+[2-brand-search-volume-seo.html] <a> Empty Link
+[2-brochure-sites-leak-revenue.html] <a> Placeholder Link (#)
+[2-brochure-sites-leak-revenue.html] <a> Placeholder Link (#)
+[2-brochure-sites-leak-revenue.html] <a> Empty Link
+[2-brochure-sites-leak-revenue.html] <a> Empty Link
+[2-cognitive-load-clean-design.html] <a> Placeholder Link (#)
+[2-cognitive-load-clean-design.html] <a> Placeholder Link (#)
+[2-cognitive-load-clean-design.html] <a> Empty Link
+[2-cognitive-load-clean-design.html] <a> Empty Link
+[2-content-marketing-roi.html] <a> Placeholder Link (#)
+[2-content-marketing-roi.html] <a> Placeholder Link (#)
+[2-content-marketing-roi.html] <a> Empty Link
+[2-content-marketing-roi.html] <a> Empty Link
+[2-content-pruning-seo.html] <a> Placeholder Link (#)
+[2-content-pruning-seo.html] <a> Placeholder Link (#)
+[2-content-pruning-seo.html] <a> Empty Link
+[2-content-pruning-seo.html] <a> Empty Link
+[2-content-refresh-strategy.html] <a> Placeholder Link (#)
+[2-content-refresh-strategy.html] <a> Placeholder Link (#)
+[2-content-refresh-strategy.html] <a> Empty Link
+[2-content-refresh-strategy.html] <a> Empty Link
+[2-cookieless-performance-marketing.html] <a> Placeholder Link (#)
+[2-cookieless-performance-marketing.html] <a> Placeholder Link (#)
+[2-cookieless-performance-marketing.html] <a> Empty Link
+[2-cookieless-performance-marketing.html] <a> Empty Link
+[2-core-web-vitals-optimization.html] <a> Broken Path: font.woff2
+[2-core-web-vitals-optimization.html] <a> Placeholder Link (#)
+[2-core-web-vitals-optimization.html] <a> Placeholder Link (#)
+[2-core-web-vitals-optimization.html] <a> Empty Link
+[2-core-web-vitals-optimization.html] <a> Empty Link
+[2-core-web-vitals-optimization.html] <img>/<script> Broken Path: hero.jpg
+[2-crawl-budget-explained.html] <a> Placeholder Link (#)
+[2-crawl-budget-explained.html] <a> Placeholder Link (#)
+[2-crawl-budget-explained.html] <a> Empty Link
+[2-crawl-budget-explained.html] <a> Empty Link
+[2-dark-mode-ui-accessibility.html] <a> Placeholder Link (#)
+[2-dark-mode-ui-accessibility.html] <a> Placeholder Link (#)
+[2-dark-mode-ui-accessibility.html] <a> Empty Link
+[2-dark-mode-ui-accessibility.html] <a> Empty Link
+[2-digital-pr-backlinks-strategy.html] <a> Placeholder Link (#)
+[2-digital-pr-backlinks-strategy.html] <a> Placeholder Link (#)
+[2-digital-pr-backlinks-strategy.html] <a> Empty Link
+[2-digital-pr-backlinks-strategy.html] <a> Empty Link
+[2-ecommerce-conversion-optimization.html] <a> Placeholder Link (#)
+[2-ecommerce-conversion-optimization.html] <a> Placeholder Link (#)
+[2-ecommerce-conversion-optimization.html] <a> Empty Link
+[2-ecommerce-conversion-optimization.html] <a> Empty Link
+[2-eeat-google-seo-factor.html] <a> Placeholder Link (#)
+[2-eeat-google-seo-factor.html] <a> Placeholder Link (#)
+[2-eeat-google-seo-factor.html] <a> Empty Link
+[2-eeat-google-seo-factor.html] <a> Empty Link
+[2-email-marketing-automation.html] <a> Placeholder Link (#)
+[2-email-marketing-automation.html] <a> Placeholder Link (#)
+[2-email-marketing-automation.html] <a> Empty Link
+[2-email-marketing-automation.html] <a> Empty Link
+[2-email-nurture-sequences-leads.html] <a> Placeholder Link (#)
+[2-email-nurture-sequences-leads.html] <a> Placeholder Link (#)
+[2-email-nurture-sequences-leads.html] <a> Empty Link
+[2-email-nurture-sequences-leads.html] <a> Empty Link
+[2-enterprise-seo-strategy.html] <a> Placeholder Link (#)
+[2-enterprise-seo-strategy.html] <a> Placeholder Link (#)
+[2-enterprise-seo-strategy.html] <a> Empty Link
+[2-enterprise-seo-strategy.html] <a> Empty Link
+[2-entity-seo-knowledge-graph.html] <a> Placeholder Link (#)
+[2-entity-seo-knowledge-graph.html] <a> Placeholder Link (#)
+[2-entity-seo-knowledge-graph.html] <a> Empty Link
+[2-entity-seo-knowledge-graph.html] <a> Empty Link
+[2-faceted-navigation-ecommerce.html] <a> Placeholder Link (#)
+[2-faceted-navigation-ecommerce.html] <a> Placeholder Link (#)
+[2-faceted-navigation-ecommerce.html] <a> Empty Link
+[2-faceted-navigation-ecommerce.html] <a> Empty Link
+[2-featured-snippets-position-zero.html] <a> Placeholder Link (#)
+[2-featured-snippets-position-zero.html] <a> Placeholder Link (#)
+[2-featured-snippets-position-zero.html] <a> Empty Link
+[2-featured-snippets-position-zero.html] <a> Empty Link
+[2-features-vs-benefits-copywriting.html] <a> Placeholder Link (#)
+[2-features-vs-benefits-copywriting.html] <a> Placeholder Link (#)
+[2-features-vs-benefits-copywriting.html] <a> Empty Link
+[2-features-vs-benefits-copywriting.html] <a> Empty Link
+[2-future-of-seo-2025.html] <a> Placeholder Link (#)
+[2-future-of-seo-2025.html] <a> Placeholder Link (#)
+[2-ga4-migration-guide.html] <a> Placeholder Link (#)
+[2-ga4-migration-guide.html] <a> Placeholder Link (#)
+[2-ga4-migration-guide.html] <a> Empty Link
+[2-ga4-migration-guide.html] <a> Empty Link
+[2-google-knowledge-panel-guide.html] <a> Placeholder Link (#)
+[2-google-knowledge-panel-guide.html] <a> Placeholder Link (#)
+[2-google-knowledge-panel-guide.html] <a> Empty Link
+[2-google-knowledge-panel-guide.html] <a> Empty Link
+[2-inp-metric-killing-rankings.html] <a> Placeholder Link (#)
+[2-inp-metric-killing-rankings.html] <a> Placeholder Link (#)
+[2-inp-metric-killing-rankings.html] <a> Empty Link
+[2-inp-metric-killing-rankings.html] <a> Empty Link
+[2-internal-linking-strategy.html] <a> Placeholder Link (#)
+[2-internal-linking-strategy.html] <a> Placeholder Link (#)
+[2-internal-linking-strategy.html] <a> Placeholder Link (#)
+[2-internal-linking-strategy.html] <a> Placeholder Link (#)
+[2-internal-linking-strategy.html] <a> Empty Link
+[2-internal-linking-strategy.html] <a> Empty Link
+[2-international-seo-hreflang.html] <a> Placeholder Link (#)
+[2-international-seo-hreflang.html] <a> Placeholder Link (#)
+[2-international-seo-hreflang.html] <a> Empty Link
+[2-international-seo-hreflang.html] <a> Empty Link
+[2-javascript-seo-react-angular.html] <a> Placeholder Link (#)
+[2-javascript-seo-react-angular.html] <a> Placeholder Link (#)
+[2-javascript-seo-react-angular.html] <a> Empty Link
+[2-javascript-seo-react-angular.html] <a> Empty Link
+[2-keyword-cannibalization-seo.html] <a> Placeholder Link (#)
+[2-keyword-cannibalization-seo.html] <a> Placeholder Link (#)
+[2-keyword-cannibalization-seo.html] <a> Empty Link
+[2-keyword-cannibalization-seo.html] <a> Empty Link
+[2-keyword-density-is-dead.html] <a> Placeholder Link (#)
+[2-keyword-density-is-dead.html] <a> Placeholder Link (#)
+[2-keyword-density-is-dead.html] <a> Empty Link
+[2-keyword-density-is-dead.html] <a> Empty Link
+[2-landing-page-anatomy-high-converting.html] <a> Placeholder Link (#)
+[2-landing-page-anatomy-high-converting.html] <a> Placeholder Link (#)
+[2-landing-page-anatomy-high-converting.html] <a> Empty Link
+[2-landing-page-anatomy-high-converting.html] <a> Empty Link
+[2-linkedin-b2b-advertising.html] <a> Placeholder Link (#)
+[2-linkedin-b2b-advertising.html] <a> Placeholder Link (#)
+[2-linkedin-b2b-advertising.html] <a> Empty Link
+[2-linkedin-b2b-advertising.html] <a> Empty Link
+[2-linkedin-ghostwriting-founder-brand.html] <a> Placeholder Link (#)
+[2-linkedin-ghostwriting-founder-brand.html] <a> Placeholder Link (#)
+[2-linkedin-ghostwriting-founder-brand.html] <a> Empty Link
+[2-linkedin-ghostwriting-founder-brand.html] <a> Empty Link
+[2-local-seo-multi-location.html] <a> Placeholder Link (#)
+[2-local-seo-multi-location.html] <a> Placeholder Link (#)
+[2-local-seo-multi-location.html] <a> Empty Link
+[2-local-seo-multi-location.html] <a> Empty Link
+[2-log-file-analysis-guide.html] <a> Placeholder Link (#)
+[2-log-file-analysis-guide.html] <a> Placeholder Link (#)
+[2-log-file-analysis-guide.html] <a> Empty Link
+[2-log-file-analysis-guide.html] <a> Empty Link
+[2-long-form-vs-short-form-copy.html] <a> Placeholder Link (#)
+[2-long-form-vs-short-form-copy.html] <a> Placeholder Link (#)
+[2-long-form-vs-short-form-copy.html] <a> Empty Link
+[2-long-form-vs-short-form-copy.html] <a> Empty Link
+[2-micro-copy-magic-cro.html] <a> Placeholder Link (#)
+[2-micro-copy-magic-cro.html] <a> Placeholder Link (#)
+[2-micro-copy-magic-cro.html] <a> Empty Link
+[2-micro-copy-magic-cro.html] <a> Empty Link
+[2-mobile-first-vs-mobile-only.html] <a> Placeholder Link (#)
+[2-mobile-first-vs-mobile-only.html] <a> Placeholder Link (#)
+[2-mobile-first-vs-mobile-only.html] <a> Empty Link
+[2-mobile-first-vs-mobile-only.html] <a> Empty Link
+[2-mobile-usability-errors.html] <a> Placeholder Link (#)
+[2-mobile-usability-errors.html] <a> Placeholder Link (#)
+[2-mobile-usability-errors.html] <a> Empty Link
+[2-mobile-usability-errors.html] <a> Empty Link
+[2-perfect-seo-blog-structure.html] <a> Placeholder Link (#)
+[2-perfect-seo-blog-structure.html] <a> Placeholder Link (#)
+[2-perfect-seo-blog-structure.html] <a> Empty Link
+[2-perfect-seo-blog-structure.html] <a> Empty Link
+[2-podcast-seo-backlinks.html] <a> Placeholder Link (#)
+[2-podcast-seo-backlinks.html] <a> Placeholder Link (#)
+[2-podcast-seo-backlinks.html] <a> Empty Link
+[2-podcast-seo-backlinks.html] <a> Empty Link
+[2-programmatic-seo-guide.html] <a> Placeholder Link (#)
+[2-programmatic-seo-guide.html] <a> Placeholder Link (#)
+[2-programmatic-seo-guide.html] <a> Empty Link
+[2-programmatic-seo-guide.html] <a> Empty Link
+[2-psychological-triggers-marketing.html] <a> Placeholder Link (#)
+[2-psychological-triggers-marketing.html] <a> Placeholder Link (#)
+[2-psychological-triggers-marketing.html] <a> Empty Link
+[2-psychological-triggers-marketing.html] <a> Empty Link
+[2-redesign-vs-revamp.html] <a> Placeholder Link (#)
+[2-redesign-vs-revamp.html] <a> Placeholder Link (#)
+[2-redesign-vs-revamp.html] <a> Empty Link
+[2-redesign-vs-revamp.html] <a> Empty Link
+[2-reputation-management-orm.html] <a> Placeholder Link (#)
+[2-reputation-management-orm.html] <a> Placeholder Link (#)
+[2-reputation-management-orm.html] <a> Empty Link
+[2-reputation-management-orm.html] <a> Empty Link
+[2-roi-of-ux.html] <a> Placeholder Link (#)
+[2-roi-of-ux.html] <a> Placeholder Link (#)
+[2-roi-of-ux.html] <a> Empty Link
+[2-roi-of-ux.html] <a> Empty Link
+[2-schema-markup-101.html] <a> Placeholder Link (#)
+[2-schema-markup-101.html] <a> Placeholder Link (#)
+[2-schema-markup-101.html] <a> Empty Link
+[2-schema-markup-101.html] <a> Empty Link
+[2-score-100-pagespeed-insights.html] <a> Placeholder Link (#)
+[2-score-100-pagespeed-insights.html] <a> Placeholder Link (#)
+[2-score-100-pagespeed-insights.html] <a> Empty Link
+[2-score-100-pagespeed-insights.html] <a> Empty Link
+[2-seo-migration-guide.html] <a> Placeholder Link (#)
+[2-seo-migration-guide.html] <a> Placeholder Link (#)
+[2-seo-migration-guide.html] <a> Empty Link
+[2-seo-migration-guide.html] <a> Empty Link
+[2-social-proof-trust-signals.html] <a> Placeholder Link (#)
+[2-social-proof-trust-signals.html] <a> Placeholder Link (#)
+[2-social-proof-trust-signals.html] <a> Empty Link
+[2-social-proof-trust-signals.html] <a> Empty Link
+[2-technical-seo-audit-15-mins.html] <a> Placeholder Link (#)
+[2-technical-seo-audit-15-mins.html] <a> Placeholder Link (#)
+[2-technical-seo-audit-15-mins.html] <a> Empty Link
+[2-technical-seo-audit-15-mins.html] <a> Empty Link
+[2-thought-leadership-content.html] <a> Placeholder Link (#)
+[2-thought-leadership-content.html] <a> Placeholder Link (#)
+[2-thought-leadership-content.html] <a> Empty Link
+[2-thought-leadership-content.html] <a> Empty Link
+[2-topic-cluster-model-seo.html] <a> Placeholder Link (#)
+[2-topic-cluster-model-seo.html] <a> Placeholder Link (#)
+[2-topic-cluster-model-seo.html] <a> Empty Link
+[2-topic-cluster-model-seo.html] <a> Empty Link
+[2-trust-signals-fortune-500.html] <a> Placeholder Link (#)
+[2-trust-signals-fortune-500.html] <a> Placeholder Link (#)
+[2-trust-signals-fortune-500.html] <a> Empty Link
+[2-trust-signals-fortune-500.html] <a> Empty Link
+[2-us-vs-them-positioning.html] <a> Placeholder Link (#)
+[2-us-vs-them-positioning.html] <a> Placeholder Link (#)
+[2-us-vs-them-positioning.html] <a> Empty Link
+[2-us-vs-them-positioning.html] <a> Empty Link
+[2-ux-audit-101.html] <a> Placeholder Link (#)
+[2-ux-audit-101.html] <a> Placeholder Link (#)
+[2-ux-audit-101.html] <a> Empty Link
+[2-ux-audit-101.html] <a> Empty Link
+[2-video-marketing-strategy.html] <a> Placeholder Link (#)
+[2-video-marketing-strategy.html] <a> Placeholder Link (#)
+[2-video-marketing-strategy.html] <a> Empty Link
+[2-video-marketing-strategy.html] <a> Empty Link
+[2-voice-search-optimization.html] <a> Placeholder Link (#)
+[2-voice-search-optimization.html] <a> Placeholder Link (#)
+[2-voice-search-optimization.html] <a> Empty Link
+[2-voice-search-optimization.html] <a> Empty Link
+[2-website-revamp-checklist.html] <a> Placeholder Link (#)
+[2-website-revamp-checklist.html] <a> Placeholder Link (#)
+[2-website-revamp-checklist.html] <a> Empty Link
+[2-website-revamp-checklist.html] <a> Empty Link
+[2-wordpress-vs-custom-code.html] <a> Placeholder Link (#)
+[2-wordpress-vs-custom-code.html] <a> Placeholder Link (#)
+[2-wordpress-vs-custom-code.html] <a> Empty Link
+[2-wordpress-vs-custom-code.html] <a> Empty Link
+[2-zero-volume-keywords-strategy.html] <a> Placeholder Link (#)
+[2-zero-volume-keywords-strategy.html] <a> Placeholder Link (#)
+[2-zero-volume-keywords-strategy.html] <a> Empty Link
+[2-zero-volume-keywords-strategy.html] <a> Empty Link
+[r-engine-optimization.html] <a> Placeholder Link (#)
+[tore-optimization.html] <a> Placeholder Link (#)
+[-authority.html] <a> Invalid Path Syntax: ../contact.html?service=linkedin-ghostwriting
+[-authority.html] <a> Invalid Path Syntax: ../contact.html?service=digital-pr
+[-authority.html] <a> Invalid Path Syntax: ../contact.html?service=award-management
+[-authority.html] <a> Invalid Path Syntax: ../contact.html?service=knowledge-panel
+[study-detail.html] <a> Placeholder Link (#)
+[n-system.html] <a> Placeholder Link (#)
+[n-system.html] <a> Placeholder Link (#)
+[n-system.html] <a> Placeholder Link (#)
+[erce-seo.html] <a> Placeholder Link (#)
+[erce-seo.html] <a> Broken Path: ../blog/2025-12-core-web-vitals-2025.html
+[prise-seo.html] <a> Placeholder Link (#)
+[works.html] <a> Placeholder Link (#)
+[ptimization.html] <a> Placeholder Link (#)
+[ptimization.html] <a> Broken Path: ../blog/2025-12-local-seo-domination.html
+[ptimization.html] <a> Broken Path: ../blog/2025-12-gmb-optimization-guide.html
+[try-ecommerce.html] <a> Placeholder Link (#)
+[try-ecommerce.html] <a> Broken Path: ../blog/2025-12-core-web-vitals-2025.html
+[try-ecommerce.html] <a> Broken Path: ../blog/2025-12-core-web-vitals-2025.html
+[try-ecommerce.html] <a> Invalid Path Syntax: ../contact.html?service=loyalty
+[try-education.html] <a> Placeholder Link (#)
+[try-hospitality.html] <a> Placeholder Link (#)
+[try-local.html] <a> Placeholder Link (#)
+[try-local.html] <a> Broken Path: ../blog/2025-12-local-seo-domination.html
+[try-local.html] <a> Broken Path: ../blog/2025-12-gmb-optimization-guide.html
+[-seo.html] <a> Placeholder Link (#)
+[-seo.html] <a> Broken Path: ../blog/2025-12-local-seo-domination.html
+[-seo.html] <a> Broken Path: ../blog/2025-12-gmb-optimization-guide.html
+[rmance-marketing.html] <a> Placeholder Link (#)
+[ervices.html] <a> Placeholder Link (#)
+[ly_blog_redesign.js] Contains console.log()
